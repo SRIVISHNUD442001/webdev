@@ -1,0 +1,49 @@
+.car{
+ margin: 30%;
+ border-radius: 10%;
+  background-color: #61dafb;
+  
+}
+.na {
+  margin-top: 20px;
+  margin-left: 10%;
+  
+}
+.naa{
+  align-items: center;
+  padding-bottom: 30px;
+  margin-left: 10%;
+ 
+}
+.car img{
+  margin-left: 50%;
+ 
+  display: flex;
+}
+.cirimg{
+  border-radius: 50%;
+  border: 7px solid #fff;
+  width: 120px;
+  position: absolute;
+  height: 120px;
+}
+.footer{
+  align-items: center;
+
+}
+.form {
+margin: 300px;
+margin-left: 500px;
+margin-right: 500px;
+  display: flex;
+ 
+  flex-direction: column;
+}
+input {
+  margin-top: 20px;
+  padding: 10px;
+}
+button{
+  padding: 10px;
+  margin-top: 20px;
+}
